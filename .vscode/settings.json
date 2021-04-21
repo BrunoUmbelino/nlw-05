@@ -3,6 +3,7 @@
     "jsxdev",
     "queos",
     "terr",
-    "terráqueos"
+    "terráqueos",
+    "typeorm"
   ]
 }
