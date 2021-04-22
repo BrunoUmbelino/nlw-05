@@ -4,6 +4,7 @@
     "queos",
     "terr",
     "terráqueos",
-    "typeorm"
+    "typeorm",
+    "varchar"
   ]
 }
