@@ -1,3 +1,3 @@
 # nlw-05
 
-Código desenvolvido na Next Level Week / Roackt Seat sobre NodeJs
+Código desenvolvido na **Next Level Week** da Rocket Seat sobre NodeJs.
